@@ -1,5 +1,4 @@
-This is linux project
-
+This is linux  os project Linux
 Rhel
 Centos
 Ubuntu
@@ -8,3 +7,4 @@ Archi Linux
 Kali Linux
 Elimentary OS
 Fedora
+____End of the project__
