@@ -7,3 +7,4 @@ Linux mint
 Archi Linux
 Kali Linux
 Elimentary OS
+Fedora
