@@ -1,0 +1,8 @@
+This is linux project
+
+Rhel
+Centos
+Ubuntu
+Linux mint
+Archi Linux
+Kali Linux
